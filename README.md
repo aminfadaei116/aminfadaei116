@@ -1,8 +1,8 @@
 ### <a href="#">About Me </a>
 
-I'm a researcher specializing in deep learning model with application in computer vision currently working at <a href="https://www.biomotionlab.ca/" class="">BioMotion Lab</a> located at York University Canada. I am doing my master's in the EECS department at at <a href="https://eecs.lassonde.yorku.ca" class="">York University</a> under the supervision of  <a href="https://www.biomotionlab.ca/" class="">Niko Troje</a> and <a href="https://mbrubake.github.io/" class="">Marcus A. Brubaker</a>.
+I'm a researcher specializing in deep learning model with application in computer vision currently working at <a href="https://www.biomotionlab.ca/" class="">BioMotion Lab</a> located at York University Canada. I am doing my master's in the EECS department at at <a href="https://eecs.lassonde.yorku.ca" class="">York University</a> under the supervision of <a href="https://www.biomotionlab.ca/" class="">Niko Troje</a> and <a href="https://mbrubake.github.io/" class="">Marcus A. Brubaker</a>.
 
-I got my bachelor of science degree in Electrical Engineering from <a href="https://ece.ut.ac.ir/en">University of Tehran</a> in 2021 under the supervision of professor <a href="https://ece.ut.ac.ir/en/~reshad.hosseini">Reshad Hosseini</a>. I also received a minor degree in Computer Engineering from <a href="https://ece.ut.ac.ir/en">University of Tehran</a> in 2020 will doing my bachelors there.<br><br>
+I got my bachelor of science degree in Electrical Engineering from <a href="https://ece.ut.ac.ir/en">University of Tehran</a> in 2021 under the supervision of <a href="https://ece.ut.ac.ir/en/~reshad.hosseini">Reshad Hosseini</a>. I also received a minor degree in Computer Engineering from <a href="https://ece.ut.ac.ir/en">University of Tehran</a> in 2020 will doing my bachelors there.<br><br>
 
 ---------------------
 ### <a href="#"> Let's Connect! </a>
