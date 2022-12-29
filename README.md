@@ -12,7 +12,8 @@ I got my bachelor of science degree in Electrical Engineering from <a href="http
 ---------------------
 ###  Projects 
 ---------------------
-TBH
+Anomaly Detection using Auto-Encoders
+
 
 
 <!---
