@@ -12,7 +12,9 @@ I got my bachelor of science degree in Electrical Engineering from <a href="http
 ---------------------
 ###  Projects 
 ---------------------
-Anomaly Detection using Auto-Encoders
+Anomaly Detection using Auto-Encoders <a href="https://aminfadaei116.github.io/projects/Deep-Learning-Course/Anomaly-Detection-Encoder/index.html" target="_blank">link</a>
+
+
 
 
 
