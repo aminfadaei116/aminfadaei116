@@ -18,11 +18,5 @@ Cycle GAN <a href="" target="_blank">link (coming soon)</a>
 
 Pose Estimation <a href="" target="_blank">link (coming soon)</a>
 
+Multi-Scale segmentation <a href="" target="_blank">link (coming soon)</a>
 
-
-
-
-<!---
-aminfadaei116/aminfadaei116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
