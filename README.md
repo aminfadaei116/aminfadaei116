@@ -15,6 +15,8 @@ I got my bachelor of science degree in Electrical Engineering from <a href="http
 Anomaly Detection using Auto-Encoders <a href="https://aminfadaei116.github.io/projects/Deep-Learning-Course/Anomaly-Detection-Encoder/index.html" target="_blank">link</a>
 
 Cycle GAN <a href="https://aminfadaei116.github.io/projects/Self-Projects/CycleGAN/index.html" target="_blank">link</a>
+
 Pose Estimation <a href="" target="_blank">link (coming soon)</a>
+
 Multi-Scale segmentation <a href="https://aminfadaei116.github.io/projects/Deep-Learning-Course/Multi-scale/index.html" target="_blank">link</a>
 
