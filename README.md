@@ -1,4 +1,4 @@
-### About Me
+### Hi my dear friend!
 
 
 Hi there I am Amin Fadaeinejad, a motivated and driven individual currently working as an R&D intern at Ubisoft La Forge in Toronto. My expertise lies in the field of deep learning and its application in computer vision. At <a href="https://toronto.ubisoft.com/ubisoft_la_forge_expands_globally/">Ubisoft La Forge</a>, I utiliz cutting-edge deep learning models to develop tools that assist artists in creating models more efficiently.
