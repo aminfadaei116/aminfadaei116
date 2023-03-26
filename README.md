@@ -13,7 +13,8 @@ In addition to my work at Ubisoft, I am also a research assistant at York Univer
 <a href="https://www.youtube.com/channel/UCtHUl6E43xb-gRCBO1848nw" target="_blank"><img alt="Yotube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 ---------------------
-### Languages and Tools:
+### Languages and Tools I use:
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
