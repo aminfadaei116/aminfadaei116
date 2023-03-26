@@ -12,8 +12,10 @@ In addition to my work at Ubisoft, I am also a research assistant at York Univer
 <a href="https://twitter.com/AFadaeinejad" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCtHUl6E43xb-gRCBO1848nw" target="_blank"><img alt="Yotube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-
-
+---------------------
+### Languages and Tools:
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 <!-- 
 This is a cool thing, just use it when your repo is nicer :D
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminfadaei116)](https://github.com/anuraghazra/github-readme-stats) -->
