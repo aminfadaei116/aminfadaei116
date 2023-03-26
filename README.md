@@ -14,4 +14,6 @@ In addition to my work at Ubisoft, I am also a research assistant at York Univer
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminfadaei116)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+This is a cool thing, just use it when your repo is nicer :D
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminfadaei116)](https://github.com/anuraghazra/github-readme-stats) -->
