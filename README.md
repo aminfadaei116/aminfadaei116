@@ -1,8 +1,9 @@
 ### About Me
 
-I'm a researcher specializing in deep learning model with application in computer vision currently working at <a href="https://www.biomotionlab.ca/" class="">BioMotion Lab</a> located at York University Canada. I am doing my master's in the EECS department at at <a href="https://eecs.lassonde.yorku.ca" class="">York University</a> under the supervision of <a href="https://www.biomotionlab.ca/" class="">Niko Troje</a> and <a href="https://mbrubake.github.io/" class="">Marcus A. Brubaker</a>.
 
-I got my bachelor of science degree in Electrical Engineering from <a href="https://ece.ut.ac.ir/en">University of Tehran</a> in 2021 under the supervision of <a href="https://ece.ut.ac.ir/en/~reshad.hosseini">Reshad Hosseini</a>. I also received a minor degree in Computer Engineering from <a href="https://ece.ut.ac.ir/en">University of Tehran</a> in 2020 will doing my bachelors there.<br><br>
+Hi there I am Amin Fadaeinejad, a motivated and driven individual currently working as an R&D intern at Ubisoft La Forge in Toronto. My expertise lies in the field of deep learning and its application in computer vision. At <a href="https://toronto.ubisoft.com/ubisoft_la_forge_expands_globally/">Ubisoft La Forge</a>, I utiliz cutting-edge deep learning models to develop tools that assist artists in creating models more efficiently.
+
+In addition to my work at Ubisoft, I am also a research assistant at York University supervised by Prof. <a href="https://www.biomotionlab.ca/" class="">Niko Troje</a> and co-supervised by <a href="https://mbrubake.github.io/" class="">Marcus A. Brubaker</a>, where I specialize in the application of deep learning in computer vision. With my strong background in deep learning and passion for developing innovative solutions, I am sure to make a significant impact in his field.
 
 ---------------------
 ### Let's Connect!
