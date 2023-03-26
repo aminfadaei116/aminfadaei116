@@ -9,6 +9,6 @@ In addition to my work at Ubisoft, I am also a research assistant at York Univer
 ### Let's Connect!
 <a href="https://www.linkedin.com/in/amin-fadaeinejad/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/AFadaeinejad" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
+<a href="https://www.youtube.com/channel/UCtHUl6E43xb-gRCBO1848nw" target="_blank"><img alt="Yotube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"" /></a>
 
 
