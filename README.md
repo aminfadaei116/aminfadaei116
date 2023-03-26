@@ -9,14 +9,5 @@ I got my bachelor of science degree in Electrical Engineering from <a href="http
 <a href="https://www.linkedin.com/in/amin-fadaeinejad/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/AFadaeinejad" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
----------------------
-###  Projects 
----------------------
-Anomaly Detection using Auto-Encoders <a href="https://aminfadaei116.github.io/projects/Deep-Learning-Course/Anomaly-Detection-Encoder/index.html" target="_blank">link</a>
 
-Cycle GAN <a href="https://aminfadaei116.github.io/projects/Self-Projects/CycleGAN/index.html" target="_blank">link</a>
-
-Pose Estimation <a href="" target="_blank">link (coming soon)</a>
-
-Multi-Scale segmentation <a href="https://aminfadaei116.github.io/projects/Deep-Learning-Course/Multi-scale/index.html" target="_blank">link</a>
 
