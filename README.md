@@ -1,7 +1,7 @@
 ### Hello my dear friend! 👋🏻
 
 
-Hi there I am Amin Fadaeinejad, a motivated and driven individual currently working as an R&D intern at Ubisoft La Forge in Toronto. My expertise lies in the field of deep learning and its application in computer vision. At <a href="https://toronto.ubisoft.com/ubisoft_la_forge_expands_globally/">Ubisoft La Forge</a>, I utiliz cutting-edge deep learning models to develop tools that assist artists in creating models more efficiently.
+Hi there, I am Amin Fadaeinejad, a motivated and driven individual who previously worked as an R&D intern at Ubisoft La Forge in Toronto. My expertise lies in the field of deep learning and its application in computer vision. At <a href="https://toronto.ubisoft.com/ubisoft_la_forge_expands_globally/">Ubisoft La Forge</a>, I utilize cutting-edge deep learning models to develop tools that assist artists in creating models more efficiently.
 
 In addition to my work at Ubisoft, I am also a research assistant at York University supervised by Prof. <a href="https://www.biomotionlab.ca/" class="">Niko Troje</a> and co-supervised by <a href="https://mbrubake.github.io/" class="">Marcus A. Brubaker</a>, where I specialize in the application of deep learning in computer vision. With my strong background in deep learning and passion for developing innovative solutions, I am sure to make a significant impact in his field.
 
