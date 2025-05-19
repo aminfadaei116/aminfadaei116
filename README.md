@@ -6,7 +6,6 @@ Previously, I worked as an **R&D Intern at Ubisoft La Forge**, developing a geom
 
 I completed my Master’s at **York University**, where I was advised by [Prof. Niko Troje](https://www.biomotionlab.ca/) and co-advised by [Prof. Marcus A. Brubaker](https://mbrubake.github.io/). My thesis focused on AI-assisted pipelines for 3D face avatar generation.
 
-I care about building systems that bridge the gap between academic innovation and real-world applications.
 
 ---
 
