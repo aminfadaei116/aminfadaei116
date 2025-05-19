@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello 
 
 I’m **Amin "David" Fadaeinejad**, a Machine Learning Researcher specializing in **3D Computer Vision** and **Generative AI**. I currently work at **Huawei’s 3D Vision Team**, where I focus on real-time face reenactment using **Diffusion Models**, **3D Gaussian Splatting**, and other state-of-the-art techniques.
 
