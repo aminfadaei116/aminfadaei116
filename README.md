@@ -8,20 +8,20 @@ Previously, I was an R&D Intern at **Ubisoft La Forge**, where I developed geome
 
 ---
 
-### 🔬 Research Interests
+### Research Interests
 * **3D Reconstruction & Avatars:** Geometry-aware texture generation, differentiable shading, and neural rendering.
 * **Generative AI:** Diffusion models, GANs, and VAEs for real-time applications.
 * **Computer Vision:** Novel View Synthesis, face swapping, and anomaly detection.
 
-### 📚 Selected Publications
+### Selected Publications
 * **Geometry-Aware Texture Generation for 3D Head Modeling with Artist-driven Control**
     * *CVPRW 2025* | [Project Page](https://aminfadaei116.github.io/)
 * **MoSAR: Monocular Semi-Supervised Model For Avatar Reconstruction Using Differentiable Shading**
     * *CVPR 2024* | [Paper](https://arxiv.org/abs/2312.13091) | [Project Page](https://aminfadaei116.github.io/)
 
-### 🛠️ Tech Stack
+### Tech Stack
 * **Languages:** Python, C/C++, MATLAB
-* **Deep Learning:** PyTorch, TensorFlow, Keras, Hugging Face
+* **Deep Learning:** PyTorch, TensorFlow, Jax, Keras
 * **Libraries:** OpenCV, NumPy, Pandas, Scikit-learn
 * **Tools:** Git, LaTeX, Linux
 
