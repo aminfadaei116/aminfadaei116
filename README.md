@@ -15,9 +15,9 @@ Previously, I was an R&D Intern at **Ubisoft La Forge**, where I developed geome
 
 ### Selected Publications
 * **Geometry-Aware Texture Generation for 3D Head Modeling with Artist-driven Control**
-    * *CVPRW 2025* | [Project Page]([https://aminfadaei116.github.io/](https://ubisoft-laforge.github.io/character/GeoAwareTextures3D/index.html)) | [Paper] ([https://arxiv.org/pdf/2505.04387])
+    * *CVPRW 2025* | [Project Page](https://ubisoft-laforge.github.io/character/GeoAwareTextures3D/) [Paper](https://arxiv.org/pdf/2505.04387)
 * **MoSAR: Monocular Semi-Supervised Model For Avatar Reconstruction Using Differentiable Shading**
-    * *CVPR 2024* | [Paper](https://arxiv.org/abs/2312.13091) | [Project Page](https://aminfadaei116.github.io/)
+    * *CVPR 2024* | [Project Page](https://ubisoft-laforge.github.io/character/mosar/) [Paper](https://arxiv.org/abs/2312.13091) | 
 
 ### Tech Stack
 * **Languages:** Python, C/C++, MATLAB
