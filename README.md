@@ -2,13 +2,18 @@
 
 **Researcher at Huawei | 3D Computer Vision & Generative AI**
 
-I am a Machine Learning Researcher specializing in **3D Computer Vision** and **Generative AI**. Currently, I work at **Huawei's 3D Vision Team**, focusing on real-time face reenactment, Diffusion Models, and 3D Gaussian Splatting.
+I am a Machine Learning Researcher specializing in 3D Computer Vision and Generative AI. Currently, I work at Huawei's 3D Vision Team, focusing on real-time face reenactment, Diffusion Models, and 3D Gaussian Splatting.
 
-Previously, I was an R&D Intern at **Ubisoft La Forge**, where I developed geometry-aware texture synthesis tools to streamline artist workflows. I completed my Master's at **York University** (BioMotion Lab), advised by Prof. Niko Troje and Prof. Marcus A. Brubaker.
+Lately, I have been expanding my research into 4D data and state-of-the-art Video Generation Models, diving deep into advanced diffusion architectures and flow matching.
+
+
+Previously, I was an R&D Intern at Ubisoft La Forge, where I developed geometry-aware texture synthesis tools to streamline artist workflows. I completed my Master's at York University (BioMotion Lab), advised by Prof. Niko Troje and Prof. Marcus A. Brubaker.
 
 ---
 
 ### Research Interests
+* Video Diffusion models (Bi-Directional or Auto-Regressive)
+* **3D Reconstruction** for 3D scenese
 * **3D Reconstruction & Avatars:** Geometry-aware texture generation, differentiable shading, and neural rendering.
 * **Generative AI:** Diffusion models, GANs, and VAEs for real-time applications.
 * **Computer Vision:** Novel View Synthesis, face swapping, and anomaly detection.
