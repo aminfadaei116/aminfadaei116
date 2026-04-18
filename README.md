@@ -62,9 +62,7 @@ Prof. Niko Troje and Prof. Marcus A. Brubaker.
   <a href="https://aminfadaei116.github.io/">
     <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/amin-fadaeinejad/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  
   <a href="https://scholar.google.com/citations?user=8Fp5h20AAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
@@ -73,6 +71,9 @@ Prof. Niko Troje and Prof. Marcus A. Brubaker.
   </a>
   <a href="https://medium.com/@aminfadaeinejad.edu">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amin-fadaeinejad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
