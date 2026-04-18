@@ -68,6 +68,11 @@ Prof. Niko Troje and Prof. Marcus A. Brubaker.
   <a href="https://scholar.google.com/citations?user=8Fp5h20AAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@aminfadaeinejad1754">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@aminfadaeinejad.edu">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </div>
-<br />
 
