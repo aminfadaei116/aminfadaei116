@@ -1,10 +1,10 @@
 # Hi, I'm Amin Fadaeinejad
 
-**ML Researcher | Video Diffusion · 3D/4D Computer Vision · Neural Rendering**
+**ML Researcher | Video Diffusion · 3D/4D Generation/Reconstruction · VLM**
 
 I am a Machine Learning Researcher at Huawei's 3D Vision Team. My current focus is on
-video diffusion models — specifically DiT-based architectures like CogVideoX, Wan2.1,
-and HunyuanVideo — for tasks such as object removal, video inpainting, and model
+video diffusion models — specifically DiT-based architectures like Wan2.1,
+and HunyuanVideo for various tasks such as object removal, video inpainting, and model
 distillation. I work with both bidirectional (full-attention) and autoregressive
 generation paradigms, and I implement flow matching at the training level, not only
 as an inference scheduler.
@@ -71,4 +71,3 @@ Prof. Niko Troje and Prof. Marcus A. Brubaker.
 </div>
 <br />
 
-![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminfadaei116&show_icons=true&theme=minimal&hide_border=true)
